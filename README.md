@@ -1,3 +1,3 @@
 # 2nd-one-
 the trial
-author - tanushree
+/n author - tanushree
